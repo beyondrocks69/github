@@ -1,0 +1,102 @@
+#hdc mtt list
++    HDC_HPSPSRAM_MTT52395   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 0 0 1 1 
++    HDC_HPSPSRAM_MTT3243   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1         
++    HDC_HPSPSRAM_MTT36011   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 0 0 0 1 
++    HDC_HPSPSRAM_MTT54443   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 1 
++    HDC_HPSPSRAM_MTT56491   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 1 0 1 1 
++    HDC_HPSPSRAM_MTT60587   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 0 1 1 1 
++    HDC_HPSPSRAM_MTT62635   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 0 1 1 1 1 
++    HDC_HPSPSRAM_MTT50347   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 0 0 0 1 1 
++    HDC_HPSPSRAM_MTT1195   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1           
++    HDC_HPSPSRAM_MTT7339   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 1       
++    HDC_HPSPSRAM_MTT11435   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 0 1     
++    HDC_HPSPSRAM_MTT17579   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 0 0 0 1   
++    HDC_HPSPSRAM_MTT23723   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 1 0 1   
++    HDC_HPSPSRAM_MTT27819   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 0 1 1   
++    HDC_HPSPSRAM_MTT52907   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 1 1 0 0 1 1 
++    HDC_HPSPSRAM_MTT50859   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 1 0 0 0 1 1 
++    HDC_HPSPSRAM_MTT57003   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 1 1 1 0 1 1 
++    HDC_HPSPSRAM_MTT20139   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 1 1 0 0 1   
++    HDC_HPSPSRAM_MTT52397   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 0 1 1 0 1 0 1 0 0 1 1 0 0 1 1 
++    HDC_HPSPSRAM_MTT56493   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 0 1 1 0 1 0 1 0 0 1 1 1 0 1 1 
++    HDC_HPSPSRAM_MTT52393   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 0 0 1 0 1 0 1 0 0 1 1 0 0 1 1 
++    HDC_HPSPSRAM_MTT56489   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 0 0 1 0 1 0 1 0 0 1 1 1 0 1 1 
++    HDC_HPSPSRAM_MTT50345   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 0 0 1 0 1 0 1 0 0 1 0 0 0 1 1 
++    HDC_HPSPSRAM_MTT51883   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 0 1 0 0 1 1 
++    HDC_HPSPSRAM_MTT19115   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 0 1 0 0 1   
++    HDC_HPSPSRAM_MTT55979   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 0 1 1 0 1 1 
++    HDC_HPSPSRAM_MTT49835   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 1 0 0 0 0 1 1 
++    HDC_HPSPSRAM_MTT1711   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 1 1 0 1 0 1 0 1 1           
++    HDC_HPSPSRAM_MTT64683   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 1 1 1 1 
+#uhdc mtt list
++    HDC_UHPSPSRAM_MTT52916   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 0 0 1 1 
++    HDC_UHPSPSRAM_MTT28340   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 0 1 1   
++    HDC_UHPSPSRAM_MTT3764   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1         
++    HDC_UHPSPSRAM_MTT36532   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 0 0 0 1 
++    HDC_UHPSPSRAM_MTT54964   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 0 1 0 1 1 
++    HDC_UHPSPSRAM_MTT57012   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 1 0 1 1 
++    HDC_UHPSPSRAM_MTT61108   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 0 1 1 1 
++    HDC_UHPSPSRAM_MTT63156   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 
++    HDC_UHPSPSRAM_MTT50868   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 0 0 0 1 1 
++    HDC_UHPSPSRAM_MTT1716   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1           
++    HDC_UHPSPSRAM_MTT7860   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 1       
++    HDC_UHPSPSRAM_MTT11956   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 0 1     
++    HDC_UHPSPSRAM_MTT18100   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 0 0 0 1   
++    HDC_UHPSPSRAM_MTT24244   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 1 1 1 0 1   
++    HDC_UHPSPSRAM_MTT52918   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 1 1 0 1 1 0 1 0 1 1 1 0 0 1 1 
++    HDC_UHPSPSRAM_MTT57014   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 
++    HDC_UHPSPSRAM_MTT50870   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 
++    HDC_UHPSPSRAM_MTT52914   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 1 0 0 1 1 0 1 0 1 1 1 0 0 1 1 
++    HDC_UHPSPSRAM_MTT50866   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 
++    HDC_UHPSPSRAM_MTT57010   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 1 0 0 1 1 0 1 0 1 1 1 1 0 1 1 
++    HDC_UHPSPSRAM_MTT51892   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 0 1 0 0 1 1 
++    HDC_UHPSPSRAM_MTT19124   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 0 1 0 0 1   
++    HDC_UHPSPSRAM_MTT49844   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 0 0 0 0 1 1 
++    HDC_UHPSPSRAM_MTT55988   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 1 1 0 1 0 1 0 1 1 0 1 1 
++    HDC_UHPSPSRAM_MTT1711   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 1 1 0 1 0 1 0 1 1           
++    HDC_UHPSPSRAM_MTT64683   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 1 0 1 0 1 0 0 1 1 1 1 1 1 
+#tprf mtt list
++    TP_HSxRF_MTT130348_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1   1 1 1 1 
++    TP_HSxRF_MTT130348_1110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1   0 1 1 1 
++    TP_HSxRF_MTT130348_1101   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1   1 0 1 1 
++    TP_HSxRF_MTT130348_1100   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1   0 0 1 1 
++    TP_HSxRF_MTT126252_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1   1 1 1 1 
++    TP_HSxRF_MTT128300_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1 1   1 1 1 1 
++    TP_HSxRF_MTT128300_1110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1 1   0 1 1 1 
++    TP_HSxRF_MTT261420_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 
++    TP_HSxRF_MTT195884_1110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 0 1 1 1 
++    TP_HSxRF_MTT130284_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 1 1 0 0 1 1 1 1 1 1 1   1 1 1 1 
++    TP_HSxRF_MTT64812_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1     1 1 1 1 
++    TP_HSxRF_MTT64812_1110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1     0 1 1 1 
++    TP_HSxRF_MTT62764_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1     1 1 1 1 
++    TP_HSxRF_MTT130060_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 1   1 1 1 1 
++    TP_HSxRF_MTT131052_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1   1 1 1 1 
++    TP_HSxRF_MTT258028_1111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+#utprf mtt list
++    TP_UHSRF_MTT195884_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 
++    TP_UHSRF_MTT195884_110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 0 1 1 
++    TP_UHSRF_MTT195884_101   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 0 1 
++    TP_UHSRF_MTT130348_100   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1   0 0 1 
++    TP_UHSRF_MTT191788_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 1 1 1 1 
++    TP_UHSRF_MTT193836_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 1 1 
++    TP_UHSRF_MTT193836_110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 0 1 1 
++    TP_UHSRF_MTT261420_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 
++    TP_UHSRF_MTT195820_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1 1 1 
++    TP_UHSRF_MTT64812_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1     1 1 1 
++    TP_UHSRF_MTT64812_110   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1     0 1 1 
++    TP_UHSRF_MTT62764_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1     1 1 1 
++    TP_UHSRF_MTT195596_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 1 
++    TP_UHSRF_MTT196588_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 
++    TP_UHSRF_MTT258028_111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+#hdrom mtt list
++    HD_ROM_MTT5636   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 0 0 0 0 0 1 1 0 1       
++    HD_ROM_MTT5124   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 0 0 0 0 0 0 1 0 1       
++    HD_ROM_MTT4612   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 0 0 0 0 0 1 0 0 1       
++    HD_ROM_MTT4100   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 0 0 0 0 0 0 0 0 1       
++    HD_ROM_MTT1540   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 0 0 0 0 0 1 1           
++    HD_ROM_MTT13828   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 1 0 0 0 0 0 0 1 1 0 1 1     
++    HD_ROM_MTT5637   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 0 1 0 0 0 0 0 0 1 1 0 1       
++    HD_ROM_MTT5635   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 0 0 0 0 0 0 0 1 1 0 1       
++    HD_ROM_MTT5632   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      0 0 0 0 0 0 0 0 0 1 1 0 1       
++    HD_ROM_MTT5647   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 1 1 0 0 0 0 0 1 1 0 1       
++    HD_ROM_MTT4111   MAIN         PAT               mtt_setting_inject_0* 35              0            DATA             TDI      1 1 1 1 0 0 0 0 0 0 0 0 1       
